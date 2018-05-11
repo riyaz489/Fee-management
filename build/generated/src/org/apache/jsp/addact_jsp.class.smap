@@ -1,0 +1,17 @@
+SMAP
+addact_jsp.java
+JSP
+*S JSP
+*F
++ 0 addact.jsp
+addact.jsp
++ 1 aheader.jsp
+aheader.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1:50
+1#1,12:51
+2#0,17:62
+1#2,25:79
+*E

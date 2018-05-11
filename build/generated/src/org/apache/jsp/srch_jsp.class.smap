@@ -1,0 +1,17 @@
+SMAP
+srch_jsp.java
+JSP
+*S JSP
+*F
++ 0 saheader.jsp
+saheader.jsp
++ 1 srch.jsp
+srch.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,15:50
+1#1,8:64
+8,29:72
+1#2,25:101
+*E

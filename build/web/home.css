@@ -1,0 +1,42 @@
+#body1{width: 100%;
+     height: 550px;
+ 
+}
+#block1{height:100%;
+        width:25%;
+    float: left;
+    padding-top: 10%;
+    margin-left: 10%;
+ 
+}
+#block2{
+    height:100%;
+    width: 30%;
+    float: right;
+     padding-top: 10%;
+
+  }
+  h2{
+       margin-bottom:14%;
+  }
+   input[type="email"],input[type="password"]{
+       margin:10px;
+       height: 25px;
+      }
+      input[type="submit"]{
+          border-radius: 2em;
+          margin-top: 50px;
+          margin-left: 12px;
+          background-color: #2266cc;
+          border-width:0px;
+          font-size: 1.2em;
+          padding:6px;
+          width: 120px;
+          
+      }
+      body{
+          background-image:url(back.jpg); 
+          background-repeat:no-repeat;
+          background-size: 100% 56%;
+          
+      }

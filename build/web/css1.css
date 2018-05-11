@@ -1,0 +1,39 @@
+#foot{background-color: #111111;
+           color:#ffffff;
+           height: 480px;
+      width: 70%;
+            align-self:bottom; 
+            margin: auto;
+}
+
+
+  #box1{ position:absolute;
+	  margin-top:2%;
+      color:#FFF;
+      
+      margin-bottom:30px;
+      text-align:center;
+      background-color: #212121;
+      width: 60%;
+      left:20%;
+      right:20%;
+      height:34%;
+}
+a:link,a:visited,a:active{
+margin-left: 1%;
+color:wheat;
+
+    }
+   a:hover{
+margin-left: 1%;
+color:plum;
+
+    }
+p {
+    margin-top: 5%;
+}
+body{
+    background-color: #000000;
+}
+    
+        
